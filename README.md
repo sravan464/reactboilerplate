@@ -2,8 +2,8 @@
 ## installation , up and running
 
 got to application folder
-npm install 
-npm start
+- npm install 
+- npm start
 
 
 
