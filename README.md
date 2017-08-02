@@ -1,4 +1,12 @@
 
+## installation , up and running
+
+got to application folder
+npm install 
+npm start
+
+
+
 ## Table of Contents
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
